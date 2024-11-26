@@ -1,0 +1,11 @@
+/* importar font press start 2p no google fonts  */
+
+
+*{
+    font-family: "Press Start 2p", system-ui;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    list-style: none;
+}
